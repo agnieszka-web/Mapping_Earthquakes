@@ -22,15 +22,20 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 ## Summary:
 
 In this interactive map , 3 layers were created: 
-streets
-satelite
-light
+* streets
+* satelite
+* light
 
 3 overlay objects were created:
-earthquakes
-tectonic plates
-earthquakes 4.5+ magnitute 
+* earthquakes
+* tectonic plates
+* earthquakes 4.5+ magnitute 
 
-![](imagesearthquakes/earthquakes.PNG)
-![](imagesearthquakes/earthquakesstreetmode.PNG)
-![](imagesearthquakes/majorearthquakes.PNG)
+### Satelite view
+![](Earthquake_Challenge/imagesearthquakes/earthquakes.PNG)
+
+### Tectonic plates
+![](Earthquake_Challenge/imagesearthquakes/earthquakesstreetmode.PNG)
+
+### Major earthquakes of +4.5 magnitude
+![](Earthquake_Challenge/imagesearthquakes/majorearthquakes.PNG)
