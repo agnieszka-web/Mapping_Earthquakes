@@ -31,7 +31,7 @@ In this interactive map , 3 layers were created:
 * tectonic plates
 * earthquakes 4.5+ magnitute 
 
-### Satelite view
+### Satelite view with earthquakes and tectonic plates
 ![](Earthquake_Challenge/imagesearthquakes/earthquakes.PNG)
 
 ### Tectonic plates
