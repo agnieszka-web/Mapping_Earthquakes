@@ -15,7 +15,7 @@ Software:
 * GeoJSON tectonicplates:
 https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
-* GeoJSON 4.5 magnitute Earthqukes:
+* GeoJSON 4.5 magnitude Earthquakes:
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 
 
